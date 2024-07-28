@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>My first emotional webpage</title>
+</head>
+<body>
+<marquee><font color=blue size=20> Welcome to my first emotional webpage. </font></marquee>
+<marquee direction = right><font color=red size=20> Welcome to my first emotional webpage. </font></marquee>
+<a href= https://github.com/ramazannbilen target=blank> Go my github from here. </a>
+
+<p>
+<pre>
+Course Description
+An Introduction to Python
+Python has grown to become the market leader in programming languages and the language of choice for data analysts and data scientists. Demand for data skills is rising because companies want to gain actionable insights from their data.
+
+Discover the Python Basics
+This is a Python course for beginners, and we designed it for people with no prior Python experience. It is even suitable if you have no coding experience at all. You will cover the basics of Python, helping you understand common, everyday functions and applications, including how to use Python as a calculator, understanding variables and types, and building Python lists. The first half of this course prepares you to use Python interactively and teaches you how to store, access, and manipulate data using one of the most popular programming languages in the world.
+
+Explore Python Functions and Packages
+The second half of the course starts with a view of how you can use functions, methods, and packages to use code that other Python developers have written. As an open-source language, Python has plenty of existing packages and libraries that you can use to solve your problems.
+
+Get Started with NumPy
+NumPy is an essential Python package for data science. You’ll finish this course by learning to use some of the most popular tools in the NumPy array and start exploring data in Python.
+</pre>
+</p>
+
+</body>
+</html>
