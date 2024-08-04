@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Salary Prediction</title>
+    </head>
+    <body>
+        <h1>Model of Prediction Salary</h1>
+        <form action="/predict" method="POST">
+            Experience: <input type=text name="experience" required> <br>
+            Grade: <input type=text name="grade" required> <br>
+            Interview: <input type=text name="interview" required> <br>
+            <button type="submit">Predict</button> <button type="reset">Clean</button> <br>
+            {{ prediction }}
+        </form>
+    </body>
+</html>
